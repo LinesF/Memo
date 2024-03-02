@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <title>메모장</title>
+  </head>
+  <body>
+    <div>
+        <!--여기에 웹페이지에 표시할 콘텐츠(태그)를 입력해주세요-->
+        <h1> 이건 메모장이다!</h1>
+        <p title=MeMo"">MMMM</p>
+        <blockquote cite="https://wikidocs.net/book/7596">웹 개발 입문자들을 대상으로 하는 HTML 교재입니다.</blockquote>
+        <p>
+            안녕<br>
+            dkssud
+        </p>
+        <p>뛰어쓰기&nbsp;Enldj</p>
+        <a href="https://wikidocs.net/book/7596" target="_self">참고</a>
+    </div>
+    
+  </body>
+</html>
